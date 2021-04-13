@@ -1,7 +1,14 @@
 # How to Use AutoKeras for Classification
 
-* [Click here](https://youtu.be/Fq7COZF2268)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=Fq7COZF2268" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/Fq7COZF2268?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![EasyOCR](http://img.youtube.com/vi/Fq7COZF2268/0.jpg)](http://www.youtube.com/watch?v=Fq7COZF2268)
 
